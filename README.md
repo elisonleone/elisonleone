@@ -28,7 +28,7 @@
  <a href="https://www.tiktok.com/@elisonleone?is_from_webapp=1&sender_device=pc" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
   <a href = "https://discord.gg/CxnD4BYbFz"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elison-leone-272152248" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+  
   ![Snake animation](https://github.com/elisonleone/elisonleone/blob/output/github-contribution-grid-snake.svg)
  
 </div>
