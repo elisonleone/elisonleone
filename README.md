@@ -1,6 +1,6 @@
 ## Olá eu sou Elison Leone 🐍, Web Developer e criador de conteúdo de programação e tecnologia!
 
-<div align="center">
+<div align="">
   <a href="https://github.com/elisonleone">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=elisonleone&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisonleone&layout=compact&langs_count=7&theme=dark"/>
