@@ -1,9 +1,9 @@
 ## Olá eu sou Elison Leone 🐍, Web Developer e criador de conteúdo de programação e tecnologia!
 
-<div align="">
+<div align="center">
   <a href="https://github.com/elisonleone">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=elisonleone&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisonleone&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elisonleone&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisonleone&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -11,10 +11,10 @@
     <img align="center" alt="elison-reactjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" alt="elison-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     <img align="center" alt="elison-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="elison-tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+    <img align="center" alt="elison-tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
     <img align="center" alt="elison-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="elison-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="right" alt="elison-wapper" height="150" style="border-radius:50px;" src="https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/Shirou/2d.png">
+    <img align="center" alt="elison-wapper" height="150" style="border-radius:50;" src="https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/Shirou/2d.png">
 </div>
 
 ##
