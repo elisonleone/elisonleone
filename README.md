@@ -17,7 +17,7 @@
 
 ##
 
-### Durante a maior parte do ano passado, tenho investido pesadamente em desenvolvimento e design de front-end. Quando iniciei minha nova função, identifiquei a necessidade de uma biblioteca de componentes e a criei. Desde então, aprendi muito sobre guias de estilo, sistemas de design, bibliotecas de componentes e suas melhores práticas. Este Github será um mergulho profundo em tudo o que aprendi no ano passado.!
+### Durante a maior parte do ano passado, tenho investido pesadamente em desenvolvimento e design de front-end. Quando iniciei minha nova função, identifiquei a necessidade de uma biblioteca de componentes e a criei. Desde então, aprendi muito sobre guias de estilo, sistemas de design, bibliotecas de componentes e suas melhores práticas. Este Github será um mergulho profundo em tudo o que aprendi no ano passado !
 
 ##
 
