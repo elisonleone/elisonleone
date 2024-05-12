@@ -1,13 +1,13 @@
 ### Olá eu sou Elison Leone 🐍. Designer, Front-end Developer & Video Maker
 
-##
+###
 <div align="center">
   <a href="https://github.com/elisonleone">
    <img src="https://github-readme-stats.vercel.app/api?username=elisonleone&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elisonleone&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"/>
 </div>
 
-##
+###
 
 <div style="display: inline_block"><br>
     <img align="center" alt="nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
@@ -21,11 +21,11 @@
     <img align="center" alt="avatar" height="150" style="border-radius:50;" src="https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/Shirou/2d.png" />
 </div>
 
-##
+###
 
 ### Durante a maior parte do ano passado, tenho investido pesadamente em desenvolvimento e design de front-end quando iniciei minha nova função. desde então aprendi muito sobre guias de estilo, sistemas de design, bibliotecas de componentes e suas melhores práticas. Este Github será um mergulho profundo em tudo o que aprendi no ano passado !
 
-##
+###
 
 <div>
 <a href="https://www.instagram.com/elison.leone"target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
