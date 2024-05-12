@@ -2,8 +2,8 @@
 
 ##
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=elisonleone&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="140" alt="stats graph" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elisonleone&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="140" alt="languages graph" />
+   <img src="https://github-readme-stats.vercel.app/api?username=elisonleone&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="120" alt="stats graph" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elisonleone&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="120" alt="languages graph" />
 </div>
 
 ##
@@ -30,7 +30,6 @@
 <a href="https://www.instagram.com/elison.leone"target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elison-leone-272152248" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/elisonleone/elisonleone/blob/output/github-contribution-grid-snake.svg)
   <img src="https://raw.githubusercontent.com/elisonleone/elisonleone/output/snake.svg" alt="Snake animation" />
 
  
