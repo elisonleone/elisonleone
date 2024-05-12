@@ -32,5 +32,4 @@
   
   <img src="https://raw.githubusercontent.com/elisonleone/elisonleone/output/snake.svg" alt="Snake animation" />
 
- 
 </div>
